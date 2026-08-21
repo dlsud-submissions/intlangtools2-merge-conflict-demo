@@ -1,3 +1,7 @@
-Local changes
+// git stash method
+Local change
 Local change
 Remote change
+
+// git merge method
+Local change
