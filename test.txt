@@ -7,3 +7,5 @@ Remote change
 Local change
 Local change
 Remote change
+
+// with real collaborators test
