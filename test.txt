@@ -6,3 +6,4 @@ Remote change
 // git merge method
 Local change
 Local change
+Remote change
