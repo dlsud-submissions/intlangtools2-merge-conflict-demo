@@ -5,3 +5,4 @@ Remote change
 
 // git merge method
 Local change
+Remote change
